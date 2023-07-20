@@ -1,2 +1,6 @@
 # Digit_Recogition
-This project builds a neural network to recognise handwritten digits.
+
+## Introduction
+This project aims to construct a neural network from scratch to recognise handwritten digits. 
+
+
