@@ -1,4 +1,4 @@
-# Digit_Recogition
+# Digit Recogition
 
 ## Introduction
 This project aims to construct a neural network from scratch using python to recognise handwritten digits. 
