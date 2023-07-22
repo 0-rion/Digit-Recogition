@@ -11,3 +11,6 @@ This neural network is made up of three layers and uses sigmoid neuron as the fu
 
 ## Training Model
 This model relies on stochastic gradient descend to adjust the weights and biases. Stochastic gradient descend is more computationally efficient than traditional gradient descend as gradient is computed only for a small sample of randomly chosen training data. This speeds up the process of finding gradient and thus the learning process.
+
+# Reference
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
